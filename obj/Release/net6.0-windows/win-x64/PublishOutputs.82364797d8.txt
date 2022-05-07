@@ -1,2 +1,0 @@
-C:\Users\samay\Documents\SoftwareProjects\KZ_Overlay\gsisocket_2\gsisocket\gsisocket\bin\Release\net6.0-windows\win-x64\publish\kz_gsi_socket.pdb
-C:\Users\samay\Documents\SoftwareProjects\KZ_Overlay\gsisocket_2\gsisocket\gsisocket\bin\Release\net6.0-windows\win-x64\publish\kz_gsi_socket.exe
