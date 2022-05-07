@@ -25,8 +25,6 @@ namespace kz_gsi_socket
             trayIcon.Visible = false;
             Environment.Exit(0);
             Application.Exit();
-        }
-
-        
+        }        
     }
 }

@@ -16,4 +16,4 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = kz_gsi_socket
-build_property.ProjectDir = C:\Users\samay\Documents\SoftwareProjects\KZ_Overlay\gsisocket_2\gsisocket\gsisocket\
+build_property.ProjectDir = C:\Users\samay\Documents\SoftwareProjects\KZ_Overlay\kz_gsi_socket\

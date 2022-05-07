@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CbnWme+GhK8QPP1gXwcjihXxZJLjgNvVMOUK/u7Jymm/HnYy/x2CsizgFQeeAkYpPx5G8iYxLYni4QmG7deajA==",
+  "dgSpecHash": "H3QNMrJF/LXtbXxXz9bCj7X983l5w9V/cFzT6lqkabhs/bxn+4t8HgmaCsz3jJuZU/1KVhyrFvYXPmtOrmPKpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\gsisocket_2\\gsisocket\\gsisocket\\kz_gsi_socket.csproj",
+  "projectFilePath": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\kz_gsi_socket\\kz_gsi_socket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samay\\.nuget\\packages\\costura.fody\\3.3.3\\costura.fody.3.3.3.nupkg.sha512",
     "C:\\Users\\samay\\.nuget\\packages\\csgsi\\1.3.0\\csgsi.1.3.0.nupkg.sha512",

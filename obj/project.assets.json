@@ -336,11 +336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\gsisocket_2\\gsisocket\\gsisocket\\kz_gsi_socket.csproj",
+      "projectUniqueName": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\kz_gsi_socket\\kz_gsi_socket.csproj",
       "projectName": "kz_gsi_socket",
-      "projectPath": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\gsisocket_2\\gsisocket\\gsisocket\\kz_gsi_socket.csproj",
+      "projectPath": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\kz_gsi_socket\\kz_gsi_socket.csproj",
       "packagesPath": "C:\\Users\\samay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\gsisocket_2\\gsisocket\\gsisocket\\obj\\",
+      "outputPath": "C:\\Users\\samay\\Documents\\SoftwareProjects\\KZ_Overlay\\kz_gsi_socket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samay\\AppData\\Roaming\\NuGet\\NuGet.Config",
