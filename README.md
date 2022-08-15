@@ -17,7 +17,7 @@ In the [Releases](https://github.com/samayala22/kz-gsi-socket/releases), downloa
 - `obs.zip`
 
 ### Usage
-- Put put `gamestate_integration_kz.cfg` in your `/csgo/cfg/` folder.
+- Put `gamestate_integration_kz.cfg` in your `/csgo/cfg/` folder.
 - Run `kz-gsi-socket.exe`, if this is your first time you may need to allow access to firewall.
 - Unzip `obs.zip` and add `index.html` to your streaming software as a browser source.
 
