@@ -5,7 +5,7 @@
 Program designed to be used with the [kz-map-overlay](https://bitbucket.org/Sikarii/kz-map-overlay/src/master/) (also by Sikari) that acts as a server for Gamestate Integration and forwards the data via sockets.
 
 ### Notes
-- The overlay has been patched to fix CORS issues. Is it recommended to use the one bundled in the `obs.zip` file.
+- The overlay has been patched to fix critical issues by [Szwagi](https://github.com/Szwagi/kz-map-overlay). The latest release is in the `obs.zip` file.
 - Gamestate Integration listener is avaiable @ port 4000 by default
 - Gamestate Integration socket server is available @ port 4001 by default
 
@@ -18,7 +18,7 @@ In the [Releases](https://github.com/samayala22/kz-gsi-socket/releases), downloa
 
 ### Usage
 - Put `gamestate_integration_kz.cfg` in your `/csgo/cfg/` folder.
-- Run `kz-gsi-socket.exe`, if this is your first time you may need to allow access to firewall.
+- Run `kz-gsi-socket.exe`, if this is your first time you may need to allow access to firewall and accept the .NET framework installation popup.
 - Unzip `obs.zip` and add `index.html` to your streaming software as a browser source.
 
 If the gsi socket is working, you should see the KZ logo in the tray
